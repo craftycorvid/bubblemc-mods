@@ -1,0 +1,16 @@
+name = "BubblyMC"
+author = "Corvid"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "59e740fe93ce6eef5be4c07aa4debfaea755206d35c5a822cb9723e6a2c6273f"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.5"
+
+[options]
+acceptable-game-versions = ["1.20.5-rc2"]

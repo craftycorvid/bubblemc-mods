@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "b21b3118720c44576336d8c92a92a461cac7a4fa76ce976bef57cc40fb7d8281"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "cb34fc8cd7c4034f9e8b647313b60be9cf2bc18465a44c76b84921df88492cda"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "774e690b5be887395987aabb847dc4736a3b19fce9fc432b895064918d3c6e0f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a5d141eab872ea8051bd1206b793c6522e67fa68e6f5346268f12d737cb066ff"
+metafile = true
+
+[[files]]
+file = "mods/improved-signs.pw.toml"
+hash = "64aed5be4877c36b93071e3184ab6335ef3dcb28d1b71078f3aa6e2daaa47d94"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "91d560d948a776061f2dcbbfa0c72e2c690e7e3bd9b5dee485d6c217d30d399d"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "11df2c9652f24aa41f1832545b7df7288ed797c9f378e50e7a4d8425231bd1b0"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c84c3a6a2f3c8966169d20a1a48a3b4daa13dbde433a397378508853bc5b50a1"
+metafile = true
